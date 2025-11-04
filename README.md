@@ -4,7 +4,7 @@
 
 # キーボ (Kībō)
 
-A custom keyboard app with the chill Gruvbox theme and multi-language support
+A custom keyboard app with the greate Gruvbox Material theme and multi-language support
 
 ## Highlighted features
 
