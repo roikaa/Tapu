@@ -1,7 +1,10 @@
+**still no release, just started developing**
+
+---
+
 # キーボ (Kībō)
 
 A custom keyboard app with the chill Gruvbox theme and multi-language support
-**still no release, just started developing**
 
 ## Highlighted features
 
